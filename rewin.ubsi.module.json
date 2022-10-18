@@ -1,0 +1,13 @@
+{
+  "services": {
+    "ubsi.demo.hello": {
+      "class_name": "ubsi.demo.hello.Service",
+      "jar_lib": {
+        "groupId": "com.rewin",
+        "artifactId": "ubsi-service-demo",
+        "version": "1.0"
+      },
+      "startup": true
+    }
+  }
+}
